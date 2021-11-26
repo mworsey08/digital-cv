@@ -17,3 +17,8 @@
 **Sessional lecturer at Griffith Univeristy**  
 
 
+## Education 
+Feb 2018 - Oct 2021, Doctor of Philosophy (Ph.D) in Sports and Electronics Engineering, Griffith Univeristy  
+Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd 
+
+
