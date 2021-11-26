@@ -8,7 +8,7 @@
     - I2C, ADC, Bluetooth, Raspberry Pi
   - Electronic circuit simulation and design (CircuitLab, Altium, Breadboarding, Soldering, Oscilloscope)
     - Design and development of wearable EMG amplifier
-  - PCB design (Altium)
+  - PCB design (Altium Designer)
     - EMG amplifier, circuit boards for MCU's and IMU's
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
@@ -23,7 +23,16 @@ Feb 2018 - present:       **Doctor of Philosophy (Ph.D) in Sports and Electronic
 Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd  
   
   
-Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
+Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**
+
+## Skills
+- Machine Learning
+ - scikit-learn, Weka, MATLAB  
+- Altium Designer  
+- Embedded programming
+  - C, C++, Python, PSoC creator
+ 
+ 
 
 
 
