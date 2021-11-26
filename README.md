@@ -2,4 +2,5 @@
 ###### Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
 
 ## Work Experience
+###### Jun 2021 - Present, Full time Research Assistant
 
