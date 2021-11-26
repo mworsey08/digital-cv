@@ -2,7 +2,7 @@
 ###### Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
 
 ## Work Experience
-1. Jun 2021 - Present,   Research Assistant
+- Jun 2021 - Present,   Research Assistant
 Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)
 Main roles:
   - Microcontroller firmware development (C, Python, C++)
