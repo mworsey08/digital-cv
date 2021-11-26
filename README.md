@@ -8,4 +8,6 @@ Main roles:
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
     - I2C, ADC, Bluetooth
   - Electronic circuit simulation and design (CircuitLab, Altium, Breadboarding, Soldering, Oscilloscope)
+    - Design and development of wearable EMG amplifier
   - PCB design (Altium)
+    - EMG amplifier, circuit boards for MCU's and IMU's
