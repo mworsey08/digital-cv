@@ -1,3 +1,3 @@
 # Matthew Worsey, 2021
-###### matthewworsey08@gmail.com
-## Biomedical and Electronic Engineer
+###### Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
+
