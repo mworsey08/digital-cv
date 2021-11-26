@@ -26,8 +26,8 @@ Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jon
 Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**
 
 ## Skills
-- Machine Learning
- - scikit-learn, Weka, MATLAB  
+- Machine Learning  
+  - scikit-learn, Weka, MATLAB  
 - Altium Designer  
 - Embedded programming
   - C, C++, Python, PSoC creator
