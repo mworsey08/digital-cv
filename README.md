@@ -23,7 +23,7 @@ Feb 2018 - present:       **Doctor of Philosophy (Ph.D) in Sports and Electronic
 Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd  
   
   
-Feb 2014 - Nov 2017       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
+Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
 
 
 
