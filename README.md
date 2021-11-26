@@ -6,7 +6,7 @@
 Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)
 Main roles:
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
-    - I2C, ADC, Bluetooth
+    - I2C, ADC, Bluetooth, Raspberry Pi
   - Electronic circuit simulation and design (CircuitLab, Altium, Breadboarding, Soldering, Oscilloscope)
     - Design and development of wearable EMG amplifier
   - PCB design (Altium)
