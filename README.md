@@ -13,5 +13,7 @@
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
 
-- Jun 2019 - October 2021, Sessional lecturer
+- Jun 2019 - October 2021, Sessional lecturer  
+**Sessional lecturer at Griffith Univeristy**  
+
 
