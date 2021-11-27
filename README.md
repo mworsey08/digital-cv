@@ -2,8 +2,7 @@
 ###### Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
 
 ## Work Experience
-- Jun 2021 - Present:       Research Assistant  
-**Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
+**- Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
     - I2C, ADC, Bluetooth, Raspberry Pi
   - Electronic circuit simulation and design (CircuitLab, Altium, Breadboarding, Soldering, Oscilloscope)
@@ -13,8 +12,7 @@
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
 
-- Jun 2019 - October 2021, Sessional lecturer  
-**Sessional lecturer at Griffith Univeristy**
+**- Jun 2019 - October 2021, Sessional lecturer at Griffith Univeristy**
   - Calculus
   - Sports Engineering
   - Sports Instrumentation
