@@ -1,5 +1,6 @@
 # Matthew Worsey,   2021
-Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
+Biomedical and Electronic Engineer -  matthewworsey08@gmail.com  
+Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAAJ&hl=en
 
 ## Work Experience
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
