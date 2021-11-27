@@ -2,6 +2,8 @@
 Biomedical and Electronic Engineer -  matthewworsey08@gmail.com  
 Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAAJ&hl=en
 
+#### Publication in Journal of Sports Sciences (Impact factor: 3.337, 12% acceptance rate)
+
 ## Work Experience
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
