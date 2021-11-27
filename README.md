@@ -10,7 +10,10 @@
   - PCB design (Altium Designer)
     - EMG amplifier, circuit boards for MCU's and IMU's
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
-    - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
+    - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors
+  - C driver development for wearable IMU device (ICM-20948)
+  - Noteable deliverables
+    - Minitaruised EMG preamplifier, I2C firmware for data transfer, local storage to SD card
 
 - **Jun 2019 - October 2021: Sessional lecturer at Griffith Univeristy**
   - Calculus
