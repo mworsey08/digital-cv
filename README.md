@@ -47,6 +47,20 @@
   - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates
 
 ## Research Experience
+- **February 2018 - present: PhD Scholar at Griffith Univeristy**
+  - Optimise use of wearable inertial measurement units for athlete performance analysis
+  - Project management
+  - Ethical clearance
+  - Signal processing, machine learning, publication writing
+  - Grant application writing 
+- **Projects of interest**
+  - Automatic classification of swimming strokes using IMUs and supervised machine learning
+  - Swimming intrastroke velocity profile generation 
+  - Automatic classification of boxing punches using IMUs and supervised machine learning
+  - Automatic classification of running surface using IMUs and supervised machine learning
+  - Effect of running surface on biomechanical processes recorded by an IMU
+  - Novel IMU impact ratio metric in soccer for evaluating performance and safety of headers
+  - Monitoring elite rower core-strength and stability using a modified dynamic ergometer and IMU
 
   
  
