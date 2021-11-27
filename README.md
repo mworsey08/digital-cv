@@ -67,10 +67,10 @@
  
  ## Grants and Awards
  - 2020
-  - Queensland Academy of Sport
-    - Sport performance innovation and knowledge excellence (SPIKE) scholar
-  - Sports Tech World Series 2020 Challenge Hackathon
-    - Finalist of the STWS 2020 challenge Hackathon, The task was to produce insightful trends and correlations from real-world professional Australian Football League (AFL) data. We used feature importance ranking and machine learning to gauge which AFL plays are most influential for winning games
+    - Queensland Academy of Sport
+      - Sport performance innovation and knowledge excellence (SPIKE) scholar
+    - Sports Tech World Series 2020 Challenge Hackathon
+      - Finalist of the STWS 2020 challenge Hackathon, The task was to produce insightful trends and correlations from real-world professional Australian Football League (AFL) data. We used feature importance ranking and machine learning to gauge which AFL plays are most influential for winning games
  
 
   
