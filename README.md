@@ -12,7 +12,7 @@
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
 
-- **Jun 2019 - October 2021, Sessional lecturer at Griffith Univeristy**
+- **Jun 2019 - October 2021: Sessional lecturer at Griffith Univeristy**
   - Calculus
   - Sports Engineering
   - Sports Instrumentation
@@ -28,12 +28,18 @@
 - Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
     - GPA: 6.03/7.0
 
-## Skills
+## Skills and Competencies
 - Machine Learning  
   - scikit-learn, Weka, MATLAB  
-- Altium Designer  
+- Practical electronics
+  - Altium designer, circuilt simulation, breadboarding, PCB design and fabrication  
 - Embedded programming
   - C, C++, Python, PSoC creator
+- Signal processing
+  - Python, MATLAB
+- Data engineering
+  - Python, MATLAB, R
+ 
  
  
 
