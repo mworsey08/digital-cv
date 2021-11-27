@@ -15,10 +15,10 @@
 
 - Jun 2019 - October 2021, Sessional lecturer  
 **Sessional lecturer at Griffith Univeristy**
-- Calculus
-- Sports Engineering
-- Sports Instrumentation
-- Research Methods for Engineers
+  - Calculus
+  - Sports Engineering
+  - Sports Instrumentation
+  - Research Methods for Engineers
 
 
 ## Education 
