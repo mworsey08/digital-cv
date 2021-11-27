@@ -107,8 +107,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   Primary Supervisor (RA) & Senior Lecturer
   School of Health Sciences and Social Work  
   Griffith Univeristy, Gold Coast Campus  
-  1 Parklands Dr, Southport, QLD, 4215
-  Email: C.pizzolato@griffith.edu.au
+  1 Parklands Dr, Southport, QLD, 4215  
+  Email: c.pizzolato@griffith.edu.au
   
 - Doctor Jonathan Shepherd
   External Supervisor (Ph.D)  
@@ -121,7 +121,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   Strategic Advisor, Queensland Academy of Sport  
   Adjunct Professor, University of Canberra and Griffith University  
   Honorary Emeritus Professor, Australian Institute of Sport 
-  Brisbane QLD 4111/Canberra 2617 
+  Brisbane QLD 4111/Canberra 2617  
+  Email: allan.hahn1@gmail.com 
   
   
  
