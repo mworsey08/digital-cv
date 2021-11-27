@@ -42,7 +42,9 @@
 - Data engineering
   - Python, MATLAB, R
 - Statistical analysis
-  - Python, MATLAB, R, SPSS, Prism graphpad
+  - Python, MATLAB, R, SPSS, Prism graphpad  
+- Biofeedback technologies  
+  - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates
 
   
  
