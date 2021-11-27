@@ -32,13 +32,17 @@
 - Machine Learning  
   - scikit-learn, Weka, MATLAB  
 - Practical electronics
-  - Altium designer, circuilt simulation, breadboarding, PCB design and fabrication  
+  - Altium designer, Circuilt simulation, Breadboarding, PCB design and fabrication  
 - Embedded programming
-  - C, C++, Python, PSoC creator
+  - C, C++, Python, PSoC creator, Raspberry pi
 - Signal processing
   - Python, MATLAB
 - Data engineering
   - Python, MATLAB, R
+- Statistical analysis
+  - Python, MATLAB, R, SPSS, Prism graphpad
+
+  
  
  
  
