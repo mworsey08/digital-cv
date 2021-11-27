@@ -46,6 +46,8 @@
 - Biofeedback technologies  
   - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates
 
+## Research Experience
+
   
  
  
