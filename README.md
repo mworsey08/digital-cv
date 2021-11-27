@@ -18,7 +18,7 @@
   - Sports Instrumentation
   - Research Methods for Engineers  
  
-- **September 2018 - June 2019: Math and Physics tutor at Fruition tuition
+- **September 2018 - June 2019: Math and Physics tutor at Fruition tuition**
 
 
 ## Education 
