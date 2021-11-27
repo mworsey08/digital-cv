@@ -56,7 +56,8 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   - Project management
   - Ethical clearance
   - Signal processing, machine learning, publication writing
-  - Grant application writing 
+  - Grant application writing
+  - Journal paper reviews 
 - **Projects of interest**
   - Automatic classification of swimming strokes using IMUs and supervised machine learning
   - Swimming intrastroke velocity profile generation 
@@ -76,6 +77,31 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
       - Finalist of the STWS 2020 challenge Hackathon, The task was to produce insightful trends and correlations from real-world professional Australian Football League (AFL) data. We used feature importance ranking and machine learning to gauge which AFL plays are most influential for winning games
     - Griffith University HDR travel grant
       - Awarded to present research paper at international conference
+  - 2018
+      - Australian Government RTP Stipend
+        - Scholarship awarded to complete Ph.D research
+ - 2017
+    - Griffith Award for Academic Excellence
+        - GPA in top 5% of undergraduate students
+ ## Societies and Committees
+ - International Sports Engineering Association
+    - Scientific committee for 2022 conference (review 5 conference papers)
+    - Member
+ - Australian and New Zealand Society of Biomechanics
+    - Member
+ - Golden Key International Honour Society
+    - Member (top 15% of University sophomores)
+ - Griffith Univeristy Honours College Alumini 
+    - Top 2% of undergraduate students
+
+## Referees
+- Emeritus Professor David Thiel 
+  Primary Supervisor & Emeritus Professor  
+  School of Engineering and Built Environment  
+  Griffith University, Nathan Campus  
+  170 Kessels Rd, Nathan, QLD 4111  
+  Telephone Number (Business): (07) 3735 7192  
+  Email: d.thiel@griffith.edu.au  
  
 
   
