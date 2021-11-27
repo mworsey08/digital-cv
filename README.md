@@ -14,7 +14,11 @@
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors  
 
 - Jun 2019 - October 2021, Sessional lecturer  
-**Sessional lecturer at Griffith Univeristy**  
+**Sessional lecturer at Griffith Univeristy**
+- Calculus
+- Sports Engineering
+- Sports Instrumentation
+- Research Methods for Engineers
 
 
 ## Education 
