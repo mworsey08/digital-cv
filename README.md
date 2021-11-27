@@ -20,13 +20,13 @@
 
 
 ## Education 
-Feb 2018 - present:       **Doctor of Philosophy (Ph.D) in Sports and Electronics Engineering, Griffith Univeristy**    
+- Feb 2018 - present:       **Doctor of Philosophy (Ph.D) in Sports and Electronics Engineering, Griffith Univeristy**    
   
-Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd  
+    - Supervisors: Emeritus Professor David Thiel, Doctor Hugo Espinosa and Doctor Jonathan Shepherd  
   
   
-Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
-GPA: 6.03/7.0
+- Feb 2014 - Nov 2017:       **Bachelor of Engineering with first class honours (BEng. Hons 1st Class)**  
+    - GPA: 6.03/7.0
 
 ## Skills
 - Machine Learning  
