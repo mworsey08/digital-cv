@@ -1,5 +1,5 @@
 # Matthew Worsey,   2021
-###### Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
+Biomedical and Electronic Engineer -  matthewworsey08@gmail.com
 
 ## Work Experience
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
@@ -69,8 +69,12 @@
  - 2020
     - Queensland Academy of Sport
       - Sport performance innovation and knowledge excellence (SPIKE) scholar
+    - ASICS Applied Research Award (International sports engineering association conference)
+      - Awarded to the orally presented paper which demonstrates the highest quality of applied research related to development or improvement of sports equipment (shoes, apparel, hitting tools and protectors), facilities, measurement devices and services
     - Sports Tech World Series 2020 Challenge Hackathon
       - Finalist of the STWS 2020 challenge Hackathon, The task was to produce insightful trends and correlations from real-world professional Australian Football League (AFL) data. We used feature importance ranking and machine learning to gauge which AFL plays are most influential for winning games
+    - Griffith University HDR travel grant
+      - Awarded to present research paper at international conference
  
 
   
