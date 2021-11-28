@@ -8,9 +8,9 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 - **Jun 2021 - Present:       Research assistant at Griffith Centre of Biomedical and Rehabilitation Engineering (GCORE)**
   - Microcontroller firmware development (C, Python, C++, Cypress PSoC Creator)
     - I2C, ADC, Bluetooth, Raspberry Pi
-  - Electronic circuit simulation and design (CircuitLab, Altium, Breadboarding, Soldering, Oscilloscope)
+  - Electronic circuit simulation and design (CircuitLab, Altium designer, Breadboarding, Soldering, Oscilloscope)
     - Design and development of wearable EMG amplifier
-  - PCB design (Altium Designer)
+  - PCB design (Altium designer)
     - EMG amplifier, circuit boards for MCU's and IMU's
   - Data analysis, statistical analysis and data visualisation (Python, MATLAB, R, Prism Graphpad)
     - Data engineering, statistical analysis and visualsation of human movement data from wearable sensors
