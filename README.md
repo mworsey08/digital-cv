@@ -52,8 +52,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 - Biofeedback technologies  
   - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates  
 
-#### Machine Learning, Coursera certificated, Issued Jan 2020, Credential ID: 8LVRU2BT7894
-
+#### Coursera certification (Credential ID: 8LVRU2BT7894): Machine Learning (Issued Jan 2020)
 ## Research Experience
 - **February 2018 - present: PhD Scholar at Griffith Univeristy**
   - Optimise use of wearable inertial measurement units for athlete performance analysis
