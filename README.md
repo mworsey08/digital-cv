@@ -38,7 +38,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 
 ## Skills and Competencies
 - Machine Learning  
-  - scikit-learn, Weka, MATLAB  
+  - Python (scikit-learn), Weka, MATLAB  
 - Practical electronics
   - Altium designer, Circuilt simulation, Breadboarding, PCB design and fabrication  
 - Embedded programming
@@ -46,9 +46,9 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
 - Signal processing
   - Python, MATLAB
 - Data engineering
-  - Python, MATLAB, R
+  - Python (pandas), MATLAB, R
 - Statistical analysis
-  - Python, MATLAB, R, SPSS, Prism graphpad  
+  - Python (pandas), MATLAB, R, SPSS, Prism graphpad  
 - Biofeedback technologies  
   - Electromyography, Optical motion capture, Inertial measurement units, GPS trackers, Force plates  
 
