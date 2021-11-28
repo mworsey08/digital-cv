@@ -106,7 +106,7 @@ Google Scholar Profile: https://scholar.google.com.au/citations?user=j44hvH4AAAA
   Email: d.thiel@griffith.edu.au  
   
 - Doctor Claudio Pizzolato  
-  Primary Supervisor (RA) & Senior Lecturer
+  Primary Supervisor (RA) & Senior Lecturer  
   School of Health Sciences and Social Work  
   Griffith Univeristy, Gold Coast Campus  
   1 Parklands Dr, Southport, QLD, 4215  
